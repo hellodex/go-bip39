@@ -1,3 +1,9 @@
+GO-BIP39
+This repository contains a local copy of the original github.com/tyler-smith/go-bip39 library.
+
+⚠️ Important Notice
+The original go-bip39 library by tyler-smith has been removed from GitHub. To ensure continuity and compatibility for existing projects, this repository provides a preserved version of the library based on a previously cached local copy.
+
 # go-bip39
 [![Build Status](https://travis-ci.org/tyler-smith/go-bip39.svg?branch=master)](https://travis-ci.org/tyler-smith/go-bip39)
 [![license](https://img.shields.io/github/license/tyler-smith/go-bip39.svg?maxAge=2592000)](https://github.com/tyler-smith/go-bip39/blob/master/LICENSE)
